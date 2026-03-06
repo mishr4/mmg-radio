@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Ck3HJI7B.mjs";function t(e,t){return{description:`Creative graphic design focused on strong branding, modern layouts, and eye catching visuals. I turn ideas into designs that connect and convert. Made with <3 in Stockton by TMC Media.`,favicon:`https://framerusercontent.com/assets/nHNJSMT3WlUndT1kg7386H9TU.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/h9CrSccxD2Mge6xU1LeSwUCVSQ.png`,title:`Studio Mishra`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.CtquyU35.mjs.map
